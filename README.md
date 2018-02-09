@@ -1,4 +1,3 @@
-# 17-practice-cucumber-soap
 cucumber test with soap
 
 This should be work together with https://github.com/brotherhui/16-practice-ssl-soap
