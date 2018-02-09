@@ -1,6 +1,3 @@
-@Library('nextgen-jenkins-libraries') _
-def  utils = new au.gov.nextgen.JenkinsUtils()
-
 def mavenHome
 def userInput
 def k8sNamespace = 'qa'
